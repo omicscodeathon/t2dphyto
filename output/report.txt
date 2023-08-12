@@ -1,0 +1,9 @@
+Results and Discussion:
+1.Identification of Target and Validation:
+SEQUENCE :
+1]gene:
+ Given is Sequence of selected biological target i.e. calpain-10 , which proven to be first candidate gene involved in causing Diabetes type-2 . the gene length is : 12371 base pairs  
+Gene:	 	CAPN10  
+Sequence length:	 	672 amino acids
+•	Uniprot ID:   Q9HC96 · CAN10_HUMAN
+Alfafold id : AF_Q9HC96_F1.
