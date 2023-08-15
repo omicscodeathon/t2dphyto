@@ -30,3 +30,6 @@ Prediction of phytochemical-protein interactions.
 Insight into enriched pathways associated with target proteins.
 
 Understanding of connections between phytochemicals and diabetes, aiding therapeutic development.
+
+## Workflow
+![image](https://github.com/omicscodeathon/t2dphyto/assets/98125947/fb8bfd07-203d-4696-af7d-a3c1ff638bbc)
