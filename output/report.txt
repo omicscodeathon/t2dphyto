@@ -7,3 +7,4 @@ Gene:	 	CAPN10
 Sequence length:	 	672 amino acids
 •	Uniprot ID:   Q9HC96 · CAN10_HUMAN
 Alfafold id : AF_Q9HC96_F1.
+figures/capn10.png
