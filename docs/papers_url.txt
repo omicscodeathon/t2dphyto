@@ -1,2 +1,5 @@
 Here are the links for some papers being used for this project:
-https://
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC102472/ Protein Data Bank
+https://academic.oup.com/nar/article/48/D1/D84/5608994  GenBank
+
