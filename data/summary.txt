@@ -1,0 +1,17 @@
+FAF-Drugs4 summary
+COc1cc(\C=C\C(O)=O)ccc1O	4_[_1E__2_carboxyeth_1_en_1_yl]_2_methoxybenzen_1_olate_1_1	Rejected	High_Risk_michael_acceptors,
+Oc1cc(O)c2c(c1)oc(-c1ccc(O)c(O)c1)c(O)c2=O	2__3_4_dioxidophenyl__4_oxo_4H_chromene_3_5_7_tris_olate__2_2	Rejected	Aggregator_Quercetin,Low_Risk_catechol,
+Oc1ccc(cc1)-c1oc2cc(O)cc(O)c2c(=O)c1O	2__4_oxidophenyl__4_oxo_4H_chromene_3_5_7_tris_olate__3_3	Intermediate	Low_Risk_phenol,
+CCCCCCCCC1OC(C)=CC1=O	5_methyl_2_octyl_2_3_dihydrofuran_3_one_4_4	Rejected	High_Risk_consecutive_alkyl_chains,
+Oc1cc(O)c2c(c1)oc(-c1cc(O)c(O)c(O)c1)c(O)c2=O	4_oxo_2__3_4_5_trioxidophenyl__4H_chromene_3_5_7_tris_olate__5_5	Rejected	Aggregator_Quercetin,High_Risk_catechol,
+CCC1NC(CC)SC(CC)S1	2_4_6_triethyl_1_3_5_dithiazinane_6_6	Accepted
+COc1cc(ccc1O)C(O)=O	4_carboxy_2_methoxybenzen_1_olate_7_7	Accepted
+CC(C)C1CCC(C)CC1O	5_methyl_2__propan_2_yl_cyclohexan_1_ol_9_9	Accepted
+OC(=O)c1c(O)cccc1O	2_carboxybenzene_1_3_bis_olate__10_10	Accepted
+COC1[CH]C([CH][CH]C1O)C1OC2[CH]C(O)[CH]C(O)C2[CH]C1OC1OC(CO)C(O)C(O)C1O	2__3_methoxy_4_oxidophenyl__3_{[3_4_5_trihydroxy_6__hydroxymethyl_oxan_2_yl]oxy}chromene_5_7_bis_olate__11_11	Accepted
+CCCCCCCCCCCC(C)=O	tridecan_2_one_12_12	Rejected	High_Risk_consecutive_alkyl_chains,High_Risk_aliphatic_ketone,
+N(c1ccccc1)c1ccccc1	N_phenylaniline_13_13	Accepted
+[CH]1[CH][CH]C([CH][CH]1)C1[CH][CH]C2[CH][CH][CH][CH]C2O1	2_phenylchromene_14_14	Accepted
+CCCCCCC1CC(=O)CC1=O	4_hexylcyclopentane_1_3_dione_15_15	Rejected	High_Risk_consecutive_alkyl_chains,
+CCCCCCCCCCCC(O)=O	dodecanoic_acid_16_16	Rejected	High_Risk_consecutive_alkyl_chains,
+OC(=O)\C=C\c1ccccc1O	2_[_1E__2_carboxyeth_1_en_1_yl]benzen_1_olate_17_17	Rejected	High_Risk_michael_acceptors,Low_Risk_phenol,
