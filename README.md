@@ -35,6 +35,7 @@ The plants from which phytochemicals were retrieved are Momordica charantia L., 
 ### 5. Pathway Analysis : 
 To determine if these receptors (Biological targets) are relevant to type 2 diabetes and associated complications,the pathway analysis was done.
 
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/alpha_glucosisase_pathway.jpg?raw=true)
 
 ### 5. Data Integration and Interpretation:
 Integrate findings from docking, screening, network, and pathway analysis.
