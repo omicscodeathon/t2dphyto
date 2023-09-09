@@ -53,4 +53,4 @@ Insight into enriched pathways associated with target proteins.
 Understanding of connections between phytochemicals and diabetes, aiding therapeutic development.
 
 ## Workflow
-![image](https://github.com/omicscodeathon/t2dphyto/blob/main/workflow/flowchart.png?raw=true)
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/workflow/Flowchart.jpg?raw=true)
