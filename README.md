@@ -37,7 +37,17 @@ To determine if these receptors (Biological targets) are relevant to type 2 diab
 
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/alpha_glucosidase_pathway.png)
 
-### 5. Data Integration and Interpretation:
+Figure 2. Alpha Glucosidase Pathway
+
+
+      
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/amylase_pathway.png?raw=true)
+
+Figure 3. Amylase Pathway
+
+
+
+### Data Integration and Interpretation:
 Integrate findings from docking, screening, network, and pathway analysis.
 Interpret results considering known diabetes mechanisms and literature.
 Generate testable hypotheses regarding phytochemical therapeutic potential.
