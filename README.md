@@ -33,9 +33,9 @@ The plants from which phytochemicals were retrieved are Momordica charantia L., 
 37 phytochemicals were retrieved from the plant momordica charantia. The results shows the various physicochemical properties on which basis the compounds were screened. The properties comprise hydrogen bond acceptors, hydrogen bond donors, logP and molecular weight.
 
 ### 5. Pathway Analysis : 
-To determine if these receptors (Biological targets) are relevant to type 2 diabetes and associated complications,the pathway analysis was done.
+To determine if these receptors (Biological targets) are relevant to type 2 diabetes and associated complications, pathway analysis was done.
 
-![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/alpha_glucosisase_pathway.jpg?raw=true)
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/alpha_glucosidase_pathway.png)
 
 ### 5. Data Integration and Interpretation:
 Integrate findings from docking, screening, network, and pathway analysis.
