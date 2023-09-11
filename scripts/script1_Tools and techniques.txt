@@ -1,0 +1,9 @@
+1. **Target Identification and Validation:** Precise target identification and validation through PubMed, UniProt, and GenBank data, bolstered by AlfaFold structural verification and PDBsum validation.
+
+2. **Binding Site Prediction:** Robust binding site predictions through the fusion of PrankWeb and CastP tools, enhancing predictive accuracy.
+
+3. **Compound Library and Structure Elucidation:** Curated phytochemicals from IMPPAT database, refined with Chemsketch Software, followed by rigorous quantum and classical modeling for energy landscapes.
+
+4. **Drug Likeliness and ADMET Analysis:** A stringent Lipinski Rule of Five assessment was applied to identify ideal drug candidates. Phytocompounds like kaempferol and gallic acid emerged as rule-compliant candidates. SwissADME tool facilitated comprehensive ADMET analysis.
+
+5. **Molecular Docking and Simulation:** Leveraging Swissdock and AutoDock-Vina, we executed molecular docking and optimization using various scoring and searching techniques. Kaempferol was strategically docked into target proteins' active sites, considering ligand flexibility. Estimated binding energies were captured for the best poses, analyzed via Pymol.
