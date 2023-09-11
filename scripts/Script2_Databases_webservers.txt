@@ -1,0 +1,16 @@
+*DATABASES:
+(https://pubmed.ncbi.nlm.nih.gov/).
+(https://www.uniprot.org/)
+https://www.ncbi.nlm.nih.gov/genbank/
+https://alphafold.ebi.ac.uk/
+http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/
+https://www.rcsb.org/
+(https://cb.imsc.res.in/imppat/
+http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/)
+*WEB SERVERS AND TOOLS:
+(https://web.expasy.org/protparam/)
+https://predictprotein.org/
+https://prankweb.cz/)
+http://sts.bioe.uic.edu/castp/
+(https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/
+https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#forms::FAF-Drugs4. 
