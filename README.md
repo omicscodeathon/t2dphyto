@@ -32,6 +32,7 @@ The plants from which phytochemicals were retrieved are Momordica charantia L., 
 Twenty (20) phytochemicals were retrieved from the plant Urtica dioica. Out of them 7 phytochemicals were selected. The various physicochemical properties on which basis the compounds were screened. The properties comprise hydrogen bond acceptors, hydrogen bond donors, logP and molecular weight.
 A total of 34 phytochemicals were retrieved from the plant Trigonella foenum-graecum out of which 29 phytochemicals were accepted. The various physicochemical properties on which basis the compounds were screened. The properties comprise hydrogen bond acceptors, hydrogen bond donors, logP and molecular weight.
 A total of 37 phytochemicals were retrieved from the plant momordica charantia. The results shows the various physicochemical properties on which basis the compounds were screened. The properties comprise hydrogen bond acceptors, hydrogen bond donors, logP and molecular weight.
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/glycerrhiza.png)
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/chemical_piechart.png)
 ### 5. Pathway Analysis : 
 To determine if these receptors (Biological targets) are relevant to type 2 diabetes and associated complications, pathway analysis was done.
@@ -63,5 +64,12 @@ Generate testable hypotheses regarding phytochemical therapeutic potential.
 3. Insight into enriched pathways associated with target proteins.
 
 4. Understanding of connections between phytochemicals and diabetes, aiding therapeutic development.
+
+ ## Team Members
+ Shivani Pawar
+ Nigel Dolling
+ Musa Muhammad Shamsuddeen
+ Raphael Abban
+Sivanandam Magudeeswaran
 
 
