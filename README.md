@@ -67,10 +67,14 @@ Generate testable hypotheses regarding phytochemical therapeutic potential.
 4. Understanding of connections between phytochemicals and diabetes, aiding therapeutic development.
 
  ## Team Members
- Shivani Pawar
- Nigel Dolling
- Musa Muhammad Shamsuddeen
- Raphael Abban
-Sivanandam Magudeeswaran
+1. Shivani Pawar
+
+2.Nigel Dolling
+   
+3.Musa Muhammad Shamsuddeen
+ 
+4.Raphael Abban
+ 
+5.Sivanandam Magudeeswaran
 
 
