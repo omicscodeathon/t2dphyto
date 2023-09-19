@@ -34,6 +34,7 @@ A total of 34 phytochemicals were retrieved from the plant Trigonella foenum-gra
 A total of 37 phytochemicals were retrieved from the plant momordica charantia. The results shows the various physicochemical properties on which basis the compounds were screened. The properties comprise hydrogen bond acceptors, hydrogen bond donors, logP and molecular weight.
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/glycerrhiza.png)
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/chemical_piechart.png)
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/moringa.png)
 ### 5. Pathway Analysis : 
 To determine if these receptors (Biological targets) are relevant to type 2 diabetes and associated complications, pathway analysis was done.
 
