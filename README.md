@@ -52,6 +52,7 @@ Figure 3. Amylase Pathway
 
 ##Results :
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/complex%202.png)
+![image](output/complex3.png)
 
  ## Team Members
 1. Shivani Pawar
