@@ -49,21 +49,9 @@ Figure 3. Amylase Pathway
 
 
 
-### Data Integration and Interpretation:
-Integrate findings from docking, screening, network, and pathway analysis.
-Interpret results considering known diabetes mechanisms and literature.
-Generate testable hypotheses regarding phytochemical therapeutic potential.
 
-
-
-## Expected Outcomes:
-1. Identification of phytochemicals with potential against type 2 diabetes.
-
-2. Prediction of phytochemical-protein interactions.
-
-3. Insight into enriched pathways associated with target proteins.
-
-4. Understanding of connections between phytochemicals and diabetes, aiding therapeutic development.
+##Results :
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/complex%202.png)
 
  ## Team Members
 1. Shivani Pawar
