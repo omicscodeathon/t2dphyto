@@ -44,32 +44,27 @@ The compound library was constructed based on retrieved phytochemicals.  The lig
 ### 6. Virtual Screening and Drug Likeness: 
 The screening of phytochemicals was conducted utilizing FAF-Drugs4, a virtual screening server accessible at https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#forms::FAF-Drugs4.  FAF-Drugs4 (Binkowski et al., 2003) represents an advanced approach amalgamating machine learning and molecular docking methodologies to forecast the Absorption, Distribution, Metabolism, and Excretion (ADME) attributes of candidate compounds. 
 
-![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/alpha_glucosidase_pathway.png)
-
-Figure 2. Alpha Glucosidase Pathway
-
-
-      
-![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/amylase_pathway.png?raw=true)
-
-Figure 3. Amylase Pathway
+### 7. Molecular docking analysis
+The molecular docking analysis was performed using Autodock vina 1.2.5 (Trott & Olson, 2009). The 3D structures of 20 phytochemical compounds were retrieved from the PubChem database and it was saved as .pdbqt format using OpenBabel 2.4.1 package (O’Boyle et al., 2011). The crystal structure of α-amylase (6OCN), α-glucosidase (5NN8), and CAPN10 were downloaded from the PDB database and Alpha Fold platform. The grid map was generated using AutoGrid with a grid size of 80 × 80 × 80 with a grid spacing of 0.375 Å. The x, y, and z centers were used: 10.947, 84.307, and 151.746 respectively. The output file (.log) was obtained from the calculations and it was analyzed using the Discovery studio analyzer (Biovia, 2017).
 
 
-
-
-##Results :
+### 8. Results:
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/complex%202.png)
 ![image](output/complex3.png)
 
- ## Team Members
-1.Shivani Pawar
+### Conclusion:
+This study presents compelling evidence supporting the potential of kaemferol, ellagic acid, and 3-O-methylellagic acid, extracted from Allium cepa and Lagerstromia speciosa, as promising drug candidates for Type II Diabetes (T2D) treatment. The demonstrated high binding affinities, particularly Kaemferol with Alpha amylase (-8.5), Ellagic acid with Alpha Glycosidase (-8.6), and 3-O-Methylellagic acid with CAPN10 (-7.7), underline their precise interactions with critical enzymes involved in T2D progression. Additionally, their favorable pharmacokinetic profiles enhance their potential for safe and effective clinical application in T2D management. These findings provide a focused and actionable foundation for further research and development in the pursuit of improved T2D therapeutics.
 
-2.Nigel Dolling
+
+ ## Team Members
+### 1.Shivani Pawar
+
+### 2.Nigel Dolling
    
-3.Musa Muhammad Shamsuddeen
+### 3.Musa Muhammad Shamsuddeen
  
-4.Raphael Abban
+### 4.Raphael Abban
  
-5.Sivanandam Magudeeswaran
+### 5.Sivanandam Magudeeswaran
 
 
