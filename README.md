@@ -14,11 +14,13 @@ The objective of this project is to investigate the molecular connections betwee
 
 ## Methods
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/workflow/Flowchart.jpg?raw=true)
+
 Figure 1. Workflow
 
 ### 1. Target Identification and Validation:
 
 The biological targets were identified from the Pubmed database through a literature search (https://pubmed.ncbi.nlm.nih.gov/). The protein and gene sequence of the targets were retrieved from Uniprot (https://www.uniprot.org/) (Consortium, 2023) and Genbank (https://www.ncbi.nlm.nih.gov/genbank/) (Agarwal & Gupta, 2016) respectively. The physical and chemical properties of selected proteins were then accessed using the Protparam tool of the ExPASy website (https://web.expasy.org/protparam/) (Consortium, 2023). The 3-dimensional structure of  the CAPN10 protein was retrieved from the AlfaFold database of the EMBL_EBI server (https://alphafold.ebi.ac.uk/)(Sayers et al., 2020). The secondary structure analysis of caplain protein was generated using the PredictProtein tool (https://predictprotein.org/) (Gasteiger et al., 2003). The 3D models of proteins were validated by using the PDBsum database (http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/) (Jumper et al., 2021). The other two biological receptors were identified by using the PDB (https://www.rcsb.org/) database with PBD IDs 5NN8 and 6OCN (Yachdav et al., 2014).
+
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/capn10.png)
 
 ### 2. Binding site Prediction:
