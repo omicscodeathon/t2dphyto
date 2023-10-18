@@ -30,6 +30,7 @@ The binding site of protein was predicted using PrankWeb, a web server for ligan
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/5td4_POCKET1_LIGANDS_prankweb.png)
 
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/1smd_pocket_castp.png)
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/figures/5td4_POCKET1_LIGANDS_prankweb.png)
 
 ### 3.  Pathway Analysis:
 The pathway analysis was conducted using the following databases https://www.genome.jp/entry/K08579, https://www.genome.jp/entry/3.2.1.1, and https://www.genome.jp/entry/3.2.1.20 to verify CAPN10, α-amylase and α-glycosidase as biological targets implicated in Type II diabetes pathogenesis as well as identify pathways associated with our biological targets. 
