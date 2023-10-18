@@ -32,6 +32,7 @@ The binding site of protein was predicted using PrankWeb, a web server for ligan
 
 ### 3.  Pathway Analysis:
 The pathway analysis was conducted using the following databases https://www.genome.jp/entry/K08579, https://www.genome.jp/entry/3.2.1.1, and https://www.genome.jp/entry/3.2.1.20 to verify CAPN10, α-amylase and α-glycosidase as biological targets implicated in Type II diabetes pathogenesis as well as identify pathways associated with our biological targets. 
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/alpha%20glucosisase%20pathway.png)
 
 ### 4. Phytochemical Retrieval:
 The phytochemicals were retrieved from IMPPAT (Indian Medicinal Plants, Phytochemistry And Therapeutics ) (https://cb.imsc.res.in/imppat/) (Jendele et al., 2019). The plants from which the phytochemicals were retrieved were *Momordica charantia L., Trigonella foenum-graecum L, Moringa oleifera Lam, Psidium guajava, Allium cepa, glycyrrhiza glabra, Gymnema sylvestre, Lagerstroemia speciosa, salvia officinalis, Urtica dioica*. About 17 Phytochemicals were retrieved from *Allium cepa*. Following that, 50 phytochemicals were taken from *Glycyrrhiza glabra*.
