@@ -57,6 +57,7 @@ The molecular docking analysis was performed using Autodock vina 1.2.5 (Trott & 
 ### 8. Results:
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/complex%202.png)
 ![image](output/complex3.png)
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/docking.png)
 
 ### Conclusion:
 This study presents compelling evidence supporting the potential of kaemferol, ellagic acid, and 3-O-methylellagic acid, extracted from Allium cepa and Lagerstromia speciosa, as promising drug candidates for Type II Diabetes (T2D) treatment. The demonstrated high binding affinities, particularly Kaemferol with Alpha amylase (-8.5), Ellagic acid with Alpha Glycosidase (-8.6), and 3-O-Methylellagic acid with CAPN10 (-7.7), underline their precise interactions with critical enzymes involved in T2D progression. Additionally, their favorable pharmacokinetic profiles enhance their potential for safe and effective clinical application in T2D management. These findings provide a focused and actionable foundation for further research and development in the pursuit of improved T2D therapeutics.
