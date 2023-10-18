@@ -17,7 +17,8 @@ The objective of this project is to investigate the molecular connections betwee
 
 Figure 1. Workflow
 
-### 1. Target Identification and Validation:
+###  Results 
+1. Target Identification and Validation:
 
 The biological targets were identified from the Pubmed database through a literature search (https://pubmed.ncbi.nlm.nih.gov/). The protein and gene sequence of the targets were retrieved from Uniprot (https://www.uniprot.org/) (Consortium, 2023) and Genbank (https://www.ncbi.nlm.nih.gov/genbank/) (Agarwal & Gupta, 2016) respectively. The physical and chemical properties of selected proteins were then accessed using the Protparam tool of the ExPASy website (https://web.expasy.org/protparam/) (Consortium, 2023). The 3-dimensional structure of  the CAPN10 protein was retrieved from the AlfaFold database of the EMBL_EBI server (https://alphafold.ebi.ac.uk/)(Sayers et al., 2020). The secondary structure analysis of caplain protein was generated using the PredictProtein tool (https://predictprotein.org/) (Gasteiger et al., 2003). The 3D models of proteins were validated by using the PDBsum database (http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/) (Jumper et al., 2021). The other two biological receptors were identified by using the PDB (https://www.rcsb.org/) database with PBD IDs 5NN8 and 6OCN (Yachdav et al., 2014).
 
@@ -33,6 +34,7 @@ The binding site of protein was predicted using PrankWeb, a web server for ligan
 ### 3.  Pathway Analysis:
 The pathway analysis was conducted using the following databases https://www.genome.jp/entry/K08579, https://www.genome.jp/entry/3.2.1.1, and https://www.genome.jp/entry/3.2.1.20 to verify CAPN10, α-amylase and α-glycosidase as biological targets implicated in Type II diabetes pathogenesis as well as identify pathways associated with our biological targets. 
 ![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/alpha%20glucosisase%20pathway.png)
+![image](https://github.com/omicscodeathon/t2dphyto/blob/main/output/amylase%20%20pathway.png)
 
 ### 4. Phytochemical Retrieval:
 The phytochemicals were retrieved from IMPPAT (Indian Medicinal Plants, Phytochemistry And Therapeutics ) (https://cb.imsc.res.in/imppat/) (Jendele et al., 2019). The plants from which the phytochemicals were retrieved were *Momordica charantia L., Trigonella foenum-graecum L, Moringa oleifera Lam, Psidium guajava, Allium cepa, glycyrrhiza glabra, Gymnema sylvestre, Lagerstroemia speciosa, salvia officinalis, Urtica dioica*. About 17 Phytochemicals were retrieved from *Allium cepa*. Following that, 50 phytochemicals were taken from *Glycyrrhiza glabra*.
