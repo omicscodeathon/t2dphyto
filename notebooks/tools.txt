@@ -1,0 +1,48 @@
+#Workflow and Tools used 
+
+#1. Target Identification and Validation:
+Databases:NCBI,EBI,PUBMED,PDBsum
+Accessions :1. https://pubmed.ncbi.nlm.nih.gov/
+2, https://www.uniprot.org/
+3. https://www.ncbi.nlm.nih.gov/genbank/
+4. https://web.expasy.org/protparam/
+5. https://alphafold.ebi.ac.uk/
+6. https://predictprotein.org/
+7. http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/
+8. https://www.rcsb.org/
+
+#2Pathway analysis:
+Database:KEGG-enzyme pathway
+Accessions:https://www.genome.jp/kegg/
+
+#3 Binding site Prediction:
+Tools: CASTp
+Accessions:
+https://prankweb.cz/
+http://sts.bioe.uic.edu/castp/)
+
+#4 Phytochemicals Retrieval:
+Databse:IMPPAT
+Accessions:
+https://cb.imsc.res.in/imppat/
+
+#5 Compound Library Construction and Structure Elucidation:
+Software:ChemSketch
+Accessions:
+https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/
+http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/
+
+#6 Virtual Screening and Drug Likeness:
+Tools: FAFDrugs 
+SWISSADME
+Accessions:
+https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#forms::FAF-Drugs4
+http://www.swissadme.ch/
+
+#7:Molecular Docking Analysis:
+Software : AutoDock-Vina
+Pymol
+BIOvia-Discovery studio
+
+
+
